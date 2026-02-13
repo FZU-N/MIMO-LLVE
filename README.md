@@ -1,6 +1,6 @@
 ## MIMO-LLVE: Degradation-Informed and Expertized RWKV for Low-Light Video Enhancement
 
-🔗 **video demonstrations** hosted on [Baidu Netdisk](https://pan.baidu.com/s/1XLxFOoKYgwgh65X2DH7K6A?pwd=x76w).
+🔗 **video demonstrations** are hosted on [Baidu Netdisk](https://pan.baidu.com/s/1XLxFOoKYgwgh65X2DH7K6A?pwd=x76w).
 
 
 
