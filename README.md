@@ -5,7 +5,7 @@
 ## 🎬 Visual Results
 
 To facilitate quick qualitative inspection, we provide GIF-based previews below.
-**Please note that GIFs are compressed and may introduce visual artifacts**. For more comprehensive and accurate visual comparisons, we highly recommend referring to the **video demonstrations** hosted on [Baidu Netdisk](https://pan.baidu.com/s/1XLxFOoKYgwgh65X2DH7K6A?pwd=x76w).
+**Please note that GIFs are compressed and may introduce visual artifacts**. For more comprehensive and accurate visual comparisons, we highly recommend referring to the **video demonstrations** hosted on [Baidu Netdisk](https://pan.baidu.com/s/1XLxFOoKYgwgh65X2DH7K6A?pwd=x76w) and  [Google Drive](https://drive.google.com/file/d/1hqkAEtKaQWrgBA0MXyWsOraYXT63m_0w/view?usp=sharing).
 
 ***
 
